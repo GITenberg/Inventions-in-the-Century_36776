@@ -1,0 +1,38 @@
+_repo: Inventions-in-the-Century_36776
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doolittle, William Henry
+    birthdate: 1844
+    gutenberg_agent_id: '38468'
+    url: http://www.gutenberg.org/2009/agents/38468
+description: ''
+gutenberg_issued: '2011-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36776'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'T'
+- !lcsh 'Inventions'
+tableOfContents: Inventions and discoveries -- Agriculture and its implements -- Agricultural
+  implements -- Agricultural inventions -- Chemistry, medicines, surgery, dentistry
+  -- Steam and steam engines -- Engineering and transportation -- Electricity -- Hoisting,
+  conveying, and storing -- Hydraulics -- Pneumatics and pneumatic machines -- Art
+  of heating, ventilating, cooking, refrigeration and lighting -- Metallurgy -- Metal
+  working processes and machines; tube making; welding; annealing and tempering; coating
+  and metal founding; metal ware; wire working -- Ordnance, arms, ammunition, and
+  explosives -- Paper and printing, typewriting and the Linotype -- Textiles -- Garments
+  -- Industrial machines -- Wood-working -- Furniture; bottling, preserving, and lamplighting
+  -- Leather -- Minerals; wells -- Horology and instruments of precision -- Music,
+  acoustics, optics, photography, fine arts -- Safes and locks -- Carriages and carrying
+  machines generally -- Ships and ship building -- Illuminating gas -- Pottery, plastics,
+  porcelains, stoneware, glass, rubber, celluloid.
+title: Inventions in the Century
+url: http://www.gutenberg.org/ebooks/36776
