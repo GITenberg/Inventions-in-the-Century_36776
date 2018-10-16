@@ -23,6 +23,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'T'
 - !lcsh 'Inventions'
+- GITenberg
 tableOfContents: Inventions and discoveries -- Agriculture and its implements -- Agricultural
   implements -- Agricultural inventions -- Chemistry, medicines, surgery, dentistry
   -- Steam and steam engines -- Engineering and transportation -- Electricity -- Hoisting,
